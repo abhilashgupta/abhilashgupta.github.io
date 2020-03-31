@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## About me
+Hello, I am Abhilash. I’m currently living in Saarbrücken, pursuing my masters in Computer Science at Universität des Saarlandes.
 
-You can use the [editor on GitHub](https://github.com/abhilashgupta/abhilashgupta.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My main research interests are in Computer Security and Privacy. I am also interested in Computer Networks. Previously, I worked at Juniper Networks for 3 years. Before that, I finished my undergraduate education at Indian Institute of Technology Bombay, Mumbai, India. My other professional experiences include a summer internships at Samsung R&D Institute, Bangalore and at Wegilant Net Solutions, Mumbai.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am interested in learning languages. I have high proficiency in 3 languages (Assamese, English and Hindi) and have working knowledge of 2 more languages (Bengali and Telugu). Currently I am learning French and German.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Research Interests
+I am broadly interested in Computer Security, Privacy and Computer Networks. Recently I have been exploring fuzzing systems and enabling privacy usably on shared devices. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abhilashgupta/abhilashgupta.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
