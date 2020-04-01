@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
 title: Abhilash Gupta
-description: |
+description: |-
     CISPA, Saarland University,
     Saarbrücken, Germany, 66125.
-    abhilash0272@gmail.com
+email: abhilash0272@gmail.com
+github_username : abhilashgupta
 logo: files/me.jpg
