@@ -8,3 +8,6 @@ I am interested in learning languages. I have high proficiency in 3 languages (A
 
 ## Research Interests
 I am broadly interested in Computer Security, Privacy and Computer Networks. Recently I have been exploring fuzzing systems and enabling privacy usably on shared devices. 
+
+## Publications
+Kanpata Sudhakara Rao, Naman Jain, Nikhil Limaje, Abhilash Gupta, Mridul Jain, Bernard Menezes. International Conference on Computing, Networking and Communications, Communications and Information Security (ICNC), 2016 [paper]{files/2for1.pdf}
