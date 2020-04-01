@@ -1,4 +1,4 @@
-theme: minimal-mistakes-jekyll #jekyll-theme-minimal
+theme: jekyll-theme-minimal #minimal-mistakes-jekyll
 minimal_mistakes_skin: "contrast" # "default", "air", "aqua", , "dark", "dirt", "neon", "mint", "plum" "sunrise"
 title: Abhilash Gupta
 description: |
